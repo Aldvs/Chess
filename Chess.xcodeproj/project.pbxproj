@@ -49,6 +49,7 @@
 		8497458F2892E764008C089F /* ChessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChessUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		849745932892E764008C089F /* ChessUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChessUITests.swift; sourceTree = "<group>"; };
 		849745952892E764008C089F /* ChessUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChessUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		849745A22892E7AD008C089F /* Chess.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chess.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +124,7 @@
 			children = (
 				849745932892E764008C089F /* ChessUITests.swift */,
 				849745952892E764008C089F /* ChessUITestsLaunchTests.swift */,
+				849745A22892E7AD008C089F /* Chess.playground */,
 			);
 			path = ChessUITests;
 			sourceTree = "<group>";
